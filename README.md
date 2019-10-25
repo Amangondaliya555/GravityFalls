@@ -1,33 +1,5 @@
-# The Numbers
+Few days back, when i got so much addicted to cryptography, i came to know about the gravity falls. It is a very much famous cartoon containing a mysterious ciphertext at the end of every episode.
 
-Points:50
+I decided to make a tool to decrypt all of those encrypted texts.
 
-## Question:
-
-```
-The numbers... what do they mean?
-```
-
-
-## Hint:
-
-```
-The flag is in the format PICOCTF{}
-```
-
-
-# Solution:
-
-  1.The hint means a lot here. Starting Alphabates of our Flag is PICOCTF.
-
-  2.Comparing it with the digits given in the png FILE. we can conclude, they have assgined the numbers from 1-26 to A-Z.
-   
-  3.Just decode the digits accordingly.
-  
-  4.Take care while submitting a flag. Sometimes, Flag format sucks.
-
-## Flag:
-
-```
-PICOCTF{THENUMBERSMASON}
-```
+Things are so much straight forward. So happy series and happy decoding!!

@@ -1,33 +1,18 @@
-# The Numbers
-
-Points:50
-
-## Question:
-
-```
-The numbers... what do they mean?
-```
+# 1.Tourist Trapped
 
 
-## Hint:
+
+## Encrypted Message:
 
 ```
-The flag is in the format PICOCTF{}
+ZHOFRPH WR JUDYLWB IDOOV. 
 ```
 
 
-# Solution:
-
-  1.The hint means a lot here. Starting Alphabates of our Flag is PICOCTF.
-
-  2.Comparing it with the digits given in the png FILE. we can conclude, they have assgined the numbers from 1-26 to A-Z.
-   
-  3.Just decode the digits accordingly.
-  
-  4.Take care while submitting a flag. Sometimes, Flag format sucks.
-
-## Flag:
+## Decryped Message:
 
 ```
-PICOCTF{THENUMBERSMASON}
+WELCOME TO GRAVITY FALLS. 
 ```
+
+LINK : https://github.com/Amangondaliya555/PyCaesar.git

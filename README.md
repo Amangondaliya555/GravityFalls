@@ -2,4 +2,6 @@ Few days back, when i got so much addicted to cryptography, i came to know about
 
 I decided to make a tool to decrypt all of those encrypted texts. I will upload here... 1.Encrypted Message 2.Tool(Simply Python Code) 3.Decrypted Message
 
+NOTE : PLEASE TRY TO AVOID USING SPECIAL CHARACTERS LIKE @,#,:,! etc.Because there is no meaning of encrypting or decrypting such symbols.
+
 Things are so much straight forward. So happy watching and happy decoding!!

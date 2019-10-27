@@ -8,6 +8,7 @@
 ZHOFRPH WR JUDYLWB IDOOV. 
 ```
 
+CIPHER TYPE : Caesar Cipher (Without a key)
 
 ## Decryped Message:
 

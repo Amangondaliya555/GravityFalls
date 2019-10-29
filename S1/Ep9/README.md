@@ -7,7 +7,7 @@
 MLG S.T. DVOOH ZKKILEVW.  
 ```
 
-CIPHER TYPE : Caesar Cipher (Without a key)
+CIPHER TYPE : Atbash Cipher 
 
 ## Decryped Message:
 

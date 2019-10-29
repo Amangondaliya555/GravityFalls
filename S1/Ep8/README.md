@@ -8,7 +8,7 @@
 V. KOFIRYFH GIVNYOVB.  
 ```
 
-CIPHER TYPE : Caesar Cipher (Without a key)
+CIPHER TYPE : Atbash Cipher
 
 ## Decryped Message:
 

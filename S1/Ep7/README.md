@@ -8,7 +8,7 @@
 KZKVI QZN WRKKVI HZBH: "ZFFTSDCJSTZWHZWFS!"  
 ```
 
-CIPHER TYPE : Caesar Cipher 
+CIPHER TYPE : Atbash cipher 
 
 ## Decryped Message:
 
